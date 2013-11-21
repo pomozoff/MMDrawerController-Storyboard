@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "294A1D0C17199537005BF6B1"
-               BuildableName = "MMDrawerControllerKitchenSinkStoryboard.app"
-               BlueprintName = "MMDrawerControllerKitchenSinkStoryboard"
-               ReferencedContainer = "container:MMDrawerControllerKitchenSinkStoryboard.xcodeproj">
+               BlueprintIdentifier = "8AD56EC404AC494C91A051BF"
+               BuildableName = "libPods-MMDrawerController.a"
+               BlueprintName = "Pods-MMDrawerController"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "294A1D0C17199537005BF6B1"
-            BuildableName = "MMDrawerControllerKitchenSinkStoryboard.app"
-            BlueprintName = "MMDrawerControllerKitchenSinkStoryboard"
-            ReferencedContainer = "container:MMDrawerControllerKitchenSinkStoryboard.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -48,15 +39,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "294A1D0C17199537005BF6B1"
-            BuildableName = "MMDrawerControllerKitchenSinkStoryboard.app"
-            BlueprintName = "MMDrawerControllerKitchenSinkStoryboard"
-            ReferencedContainer = "container:MMDrawerControllerKitchenSinkStoryboard.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -66,15 +48,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "294A1D0C17199537005BF6B1"
-            BuildableName = "MMDrawerControllerKitchenSinkStoryboard.app"
-            BlueprintName = "MMDrawerControllerKitchenSinkStoryboard"
-            ReferencedContainer = "container:MMDrawerControllerKitchenSinkStoryboard.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
